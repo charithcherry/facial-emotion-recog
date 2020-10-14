@@ -1,0 +1,4 @@
+opencv_python==4.3.0.36
+numpy==1.18.5
+Keras==2.4.3
+streamlit==0.64.0
